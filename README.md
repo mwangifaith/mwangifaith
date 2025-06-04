@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mwangifaith
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning HTML, CSS
-- 💞️ I’m looking to collaborate on HTML, CSS
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning web development
+- 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me Gmail mwangifaith617@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am multilingual (I speakk multiple languages)
